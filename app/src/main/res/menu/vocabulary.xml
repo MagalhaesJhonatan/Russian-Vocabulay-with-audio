@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jm.russianvocabulary.MainActivity">
+
+    <item android:id="@+id/item1"
+        android:title="@string/verbs"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item2"
+        android:title="@string/nouns"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item3"
+        android:title="@string/adverbs"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item4"
+        android:title="@string/pronouns"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item5"
+        android:title="@string/adjectives"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item6"
+        android:title="@string/numerals"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item7"
+        android:title="@string/conjunctions"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item8"
+        android:title="Prepositions"
+        app:showAsAction="never" />
+
+</menu>
